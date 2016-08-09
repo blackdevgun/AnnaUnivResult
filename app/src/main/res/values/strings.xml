@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnnaUniv Result</string>
+
+
+    <string name="allTheBest">All the best for your results</string>
+
+    <string name="hintRegNo">Register Number</string>
+    <string name="buttonSubmit">Submit</string>
+</resources>
