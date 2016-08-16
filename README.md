@@ -1,9 +1,4 @@
 # AnnaUnivResult
-Open source Android application that provides Anna University results
-
-
-AnnaUnivResult
-==============
 
 Open source Android application that provides Anna University results
 
